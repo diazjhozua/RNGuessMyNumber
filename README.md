@@ -1,4 +1,4 @@
-# RNGuessMyNumber
+# RNGuessMyNumber (REACT NATIVE APP)
 
 This application was based on the lecture on Udemy course (React Native - The Practical Guide [2022]) by Academind by Maximilian Schwarzmüller 
 and Maximilian Schwarzmüller. The main function of this app is to be able to compete with your device in a guessing number game.
