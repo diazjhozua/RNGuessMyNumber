@@ -10,5 +10,9 @@ and Maximilian Schwarzmüller. The main function of this app is to be able to co
 - During the game, it will shows the logging events (List of system's guess per round).
 - After completing the game, the app will shows the number of rounds consume by the system to guess the user's number.
 
+
+### Disclaimer
+* This project idea is from the React Native - The Practical Guide [2022] course and just I follow along the tutorial.
+
 Udemy course link: https://www.udemy.com/course/react-native-the-practical-guide/
 
